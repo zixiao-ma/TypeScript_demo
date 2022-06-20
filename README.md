@@ -1,3 +1,3 @@
 # TypeScript_demo
 typeScript_demo Gluttonous snake
-typeScript_demo Gluttonous snake
+使用TypeScript面向对象编写的贪吃蛇小游戏
